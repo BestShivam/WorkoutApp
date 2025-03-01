@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">7 Min Workout App</string>
+    <string name="underweight">Your BMI indicates that you\'re underweight. It\'s important to focus on a balanced diet with nutrient-rich foods and consult a healthcare professional
+        or nutritionist to ensure you\'re meeting your body\'s nutritional needs</string>
+    <string name="normal">our BMI is in the normal range. Great job maintaining a healthy weight! Keep up with a balanced diet,
+        regular physical activity, and a healthy lifestyle.</string>
+    <string name="overweight">Your BMI indicates that you\'re overweight. Consider incorporating regular physical activity and a balanced diet into your routine. Small, consistent changes can make a big difference.
+        For personalized advice, consult a healthcare professional.</string>
+    <string name="obese">Your BMI is in the obese category. It\'s important to prioritize your health by adopting a balanced diet and increasing physical activity. Seeking support from a healthcare provider or dietitian can
+        help you create a personalized plan to achieve a healthier weight</string>
+
+    <string name="none">None</string>
+</resources>

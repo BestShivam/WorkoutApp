@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvProgressWorkout" type="id" />
+    <item name="progressBarWorkout" type="id" />
+    <item name="frameLayoutWorkout" type="id" />
+    <item name="tvNextExercise" type="id" />
+    <item name="bmiFrame" type="id" />
+</resources>

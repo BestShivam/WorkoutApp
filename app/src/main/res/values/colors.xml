@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="header_background">#D3D3D3</color>
+    <color name="blue">#0081A7</color>
+    <color name="light_blue">#00AFB9</color>
+    <color name="white2">#FDFCDC</color>
+    <color name="light_green">#A7C957</color>
+    <color name="green">#6A994E</color>
+    <color name="dark_green">#386641</color>
+    <color name="toolbar_color_control_normal">#000000</color>
+</resources>
